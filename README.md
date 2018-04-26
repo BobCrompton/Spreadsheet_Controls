@@ -4,7 +4,7 @@ Macro-free controls for excel spreadsheets - free version
 
 This application was developed in C# and requires .Net 4.5 or later to work properly.  .Net downloads are freely available from Microsoft.
 
-To install, download the Zip file & extract to a convenient location.  Click the "Spreadsheet_Controls.application" file.  This will create a Start Menu entry for the application.
+To install, download the Zip file & extract to a convenient location.  Click the "Setup.exe" file.  This will create a Start Menu entry for the application.
 
 Only the first option in either check-box is operative in this demo version.  You can click the other options if you like, but they are unresponsive.
 
